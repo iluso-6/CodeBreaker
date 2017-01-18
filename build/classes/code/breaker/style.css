@@ -1,0 +1,18 @@
+.label {
+-fx-font-family: "space age";
+} 
+ 
+.progress-bar .track{
+    -fx-background-color: blue;
+    -fx-background-radius:10;
+    -fx-opacity: 0.1;
+}
+
+.progress-bar .bar { 
+    -fx-background-color: lightskyblue;
+    -fx-background-radius: 15;
+}
+.red-bar  .bar  { 
+    -fx-background-color: #ff493d;  
+}
+
